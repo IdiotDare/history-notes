@@ -2,8 +2,10 @@
 this is my fucking history notes also theyre my notes, not my words. Paraphrased/copied, alright? No guarantee on accuracy
 For now, it's just Chinese dynasties.
 
-First up, Shang.
+<h2>First up, Shang.</h2>
+
 They extended the kingdom to the Xia Kingdom in the north, and south of the Yellow river.
+
 They created:
   1. The Chinese writing system
     -over 10,000 characters
@@ -12,7 +14,9 @@ They created:
   2. The notion of filiat piety
     -respected for parents and the ancestors of the father
     -generations lived together, the eldest male controlled everything(money,important decisions)
+
 Girls/women were treated as inferior, raised to obey the males in the family. They were married off between the ages of 13-16, becoming part of their husbands' families.
+
 The Shang dynasty was polytheistic with a supreme God, and many less Gods.
 
 The Dynastic Cycle, can be considered the life cycle of a dynasty.
@@ -24,13 +28,20 @@ The Dynastic Cycle, can be considered the life cycle of a dynasty.
   6. The new dynasty gains power; restores peace and order, claims to have Mandate of Heaven.
   7. Start back at 1.
 This concept was created by the Zhou dynasty.
-Zhou dynasty
+
+<h2>Zhou dynasty</h2>
 The Zhou dynasty started the concept of the Dynastic Cycle and the Mandate of Heaven as an excuse to overthrow the Shang.
 Accomplishments
-  1. Introduction of the feudal system to China as they divded their lands into regions to be governed by a family member
-  2. construction of roads and canals
+  <ol>
+  <li>Introduction of the feudal system to China as they divded their lands into regions to be governed by a family member
+  </li>
+  <li>construction of roads and canals
     -stimulates trade and farming
-  3. Standard system of coin
+  </li>
+  <li>Standard system of coin
     -makes trade easier, no money conversion needed and varying values
-  4. Blast furnaces
+  </li>
+  <li>Blast furnaces
     -produces iron weapons and tools!
+  </li>
+  </ol>
