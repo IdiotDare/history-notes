@@ -10,7 +10,7 @@ var shangInfo = [
           "The Shang dynasty was polytheistic with a supreme God, and many less Gods."
   ];
 
-var zhouInfo: [
+var zhouInfo = [
        "The Dynastic Cycle, can be considered the life cycle of a dynasty: 1. Strong dynasty establishes peace and prosperity; considered to have Mandate of Heaven.",
          "The Dynastic Cycle, can be considered the life cycle of a dynasty: 2. Over time, the dynasty becomes corrupt; taxes get raised; power grows weaker.",
          "The Dynastic Cycle, can be considered the life cycle of a dynasty: 3. Disasters(diseases, famine, floods, revolts) happen.",
