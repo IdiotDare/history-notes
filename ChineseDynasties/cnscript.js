@@ -28,7 +28,14 @@ var infoObj = {
     "The members of the Royal family scattered throughout the Empire, as local nobles claimed to be Kings of their own States. Seven individual States were established that were constantly at war, known as the Seven Warring States."
          ],
   han: [
-    
+    "A general, Liu Bang declared himself the first emperor of the Han dynasty after the civil wars and instability following the fall of the Qin dynasty.",
+    "He established a centralized government with hundreds of provincials reporting to his government.",
+    "To win support, Liu Bang lowered taxes and was less strict with punishments.",
+    "During the Han dynasty, it was common to have a favorite wife and then appoint one of the favorite's son as the next emperor; this lead to power struggles between wives.",
+    "The Han government featured a complex bureaucracy, including up to 18 ranks of civil service jobs. Under the Han, bureaucrats were selected to civil service jobs based on their knowledge of Confucianism.",
+    "The Han dynasty promoted cultural assimilation among the people they conquered as a way to unify Chinese culture.",
+    "Eventually, the disparity between the rich and the poor led to this dynasty's downfall. The rulers immediately following the Han proved to be inexperienced and unsuccessful rulers."
+     ]
 }
 
 //button functions
