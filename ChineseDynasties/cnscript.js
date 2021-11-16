@@ -37,7 +37,11 @@ var infoObj = {
     "Eventually, the disparity between the rich and the poor led to this dynasty's downfall. The rulers immediately following the Han proved to be inexperienced and unsuccessful rulers."
      ]
 }
-
+//random numbers
+function randNum(prop){
+ let num = Math.floor(Math.random()*(infoObj.prop.length-1))
+ return infoObj.prop[num]
+}
 //button functions
 function shangChange(){
 
@@ -46,7 +50,7 @@ document.getElementById('han-text').innerHTML = testText[1];
 }
 
 function zhouChange(){
-  
+  document.getElementById('zhou-text').innerHTML = randNum(zhou);
 }
 
 function hanChange(){
