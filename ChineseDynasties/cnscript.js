@@ -1,7 +1,6 @@
 
 var testText = ["testing","two"];
-document.getElementById("shang-text").innerHTML = testText[0];
-/*
+
 var shangInfo = [
           "They extended the kingdom to the Xia Kingdom in the north, and south of the Yellow river.",
           "They created:The Chinese writing system -over 10,000 characters -7 main dialect groups, but hundreds of sub-dialects(because of all the ethnic groups); a common writing system was necessary for unity",
@@ -37,7 +36,11 @@ var zhouInfo = [
     "The Han dynasty promoted cultural assimilation among the people they conquered as a way to unify Chinese culture.",
     "Eventually, the disparity between the rich and the poor led to this dynasty's downfall. The rulers immediately following the Han proved to be inexperienced and unsuccessful rulers."
      ];
-*/
+
+//^info
+document.getElementById("shang-text").innerHTML = testText[0];
+
+
 //random numbers
 function randNum(prop){
  let num = Math.floor(Math.random()*(varia.length-1))
