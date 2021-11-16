@@ -37,7 +37,7 @@ zhouInfo: [
     "The Han dynasty promoted cultural assimilation among the people they conquered as a way to unify Chinese culture.",
     "Eventually, the disparity between the rich and the poor led to this dynasty's downfall. The rulers immediately following the Han proved to be inexperienced and unsuccessful rulers."
      ];
-}
+};
 //^info
 document.getElementById("shang-text").innerHTML = testText[0];
 
