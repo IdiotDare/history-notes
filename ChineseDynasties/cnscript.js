@@ -1,6 +1,6 @@
 
-var testText = "testing";
-document.getElementById("han-text").innerHTML = testText;
+var testText = ["testing","two"];
+document.getElementById("han-text").innerHTML = testText[0];
 
 var infoObj = {
   shang: [
@@ -41,7 +41,7 @@ var infoObj = {
 //button functions
 function shangChange(){
 
-document.getElementById('han-text').innerHtml = testText;
+document.getElementById('han-text').innerHTML = testText[1];
 
 }
 
