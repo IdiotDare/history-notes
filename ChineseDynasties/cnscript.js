@@ -50,7 +50,9 @@ document.getElementById('han-text').innerHTML = testText[1];
 }
 
 function zhouChange(){
-  document.getElementById('zhou-text').innerHTML = randNum(zhou);
+  let num = Math.floor(Math.random()*(infoObj.prop.length-1));
+  let text = infoObj.zhou[num];
+  document.getElementById('zhou-text').innerHTML = text;
 }
 
 function hanChange(){
