@@ -63,6 +63,7 @@ function zhouChange(){
 }
 
 function hanChange(){
-  document.getElementById('han-text').innerHTML = hanInfo[3];
+  let text = hanInfo[3]
+  document.getElementById('han-text').innerHTML = text;
 }
 
