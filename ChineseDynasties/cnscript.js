@@ -1,6 +1,6 @@
 
 var testText = ["testing","two"];
-document.getElementById("han-text").innerHTML = testText[0];
+document.getElementById("shang-text").innerHTML = testText[0];
 
 var shangInfo = [
           "They extended the kingdom to the Xia Kingdom in the north, and south of the Yellow river.",
@@ -45,7 +45,7 @@ function randNum(prop){
 //button functions
 function shangChange(){
 
-document.getElementById('han-text').innerHTML = testText[1];
+document.getElementById('shang-text').innerHTML = testText[1];
 
 }
 
@@ -60,5 +60,5 @@ function zhouChange(){
 }
 
 function hanChange(){
- // document.getElementById('han-text').innerHTML = hanInfo[3];
+  document.getElementById('han-text').innerHTML = hanInfo[3];
 }
