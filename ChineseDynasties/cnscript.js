@@ -43,9 +43,6 @@ document.getElementById("shang-text").innerHTML = testText[0];
 
 
 //random numbers
-function randNum(prop){
- let num = Math.floor(Math.random()*(varia.length-1))
-}
 //button functions
 function shangChange(){
 
@@ -55,7 +52,7 @@ document.getElementById('shang-text').innerHTML = testText[1];
 
 function zhouChange(){
   let num = Math.floor(Math.random()*(infoObj.prop.length - 1));
-  let text = infoObj.zhou[num];
+  let text = notes.zhou[num];
   if(text != document.getElementById('zhou-text').innerHTML){
   document.getElementById('zhou-text').innerHTML = text;
   } else {
