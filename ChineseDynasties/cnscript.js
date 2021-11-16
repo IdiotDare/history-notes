@@ -52,7 +52,7 @@ document.getElementById('shang-text').innerHTML = testText[1];
 
 function zhouChange(){
   let num = Math.floor(Math.random()*(infoObj.prop.length - 1));
-  let text = notes.zhou[num];
+  let text = notes.zhouInfo[num];
   if(text != document.getElementById('zhou-text').innerHTML){
   document.getElementById('zhou-text').innerHTML = text;
   } else {
