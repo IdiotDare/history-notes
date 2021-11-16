@@ -64,6 +64,8 @@ function zhouChange(){
 
 function hanChange(){
   let text = hanInfo[3]
+  if(document.getElementById('han-text').innerHTML != text){
   document.getElementById('han-text').innerHTML = text;
+} else {
+          document.getElementById('han-text').innerHTML = "you failed haha";
 }
-
