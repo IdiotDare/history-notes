@@ -64,7 +64,7 @@ function zhouChange(){
 }
 
 function hanChange(){
-  let text = hanInfo[3]
+  let text = notes.hanInfo[3]
   if(document.getElementById('han-text').innerHTML != text){
   document.getElementById('han-text').innerHTML = text;
 } else {
