@@ -45,3 +45,14 @@ Accomplishments
     -produces iron weapons and tools!
   </li>
   </ol>
+
+The Dynastic Cycle is the process where a dynasty rises, rules for a while, declines, gets replaced, and the process repeats.
+
+The Mandate of Heaven is a part of the Dynastic Cycle. It is the belief that God favors a family/person to rule China with a "Mandate from Heaven". When a Dynasty falls, it is said to have lost God's Mandate from Heaven, and the new dynasty family has been granted it.
+
+The Zhou Empire lasted 900 years, and were attacked by nomadic people from the north, leaving their capital burned and Emperor murdered.
+
+The members of the Royal family scattered throughout the Empire, as local nobles claimed to be Kings of their own States. Seven individual States were established that were constantly at war, known as the Seven Warring States.
+
+<h2>Han dynasty</h2>
+
