@@ -70,3 +70,4 @@ function hanChange(){
 } else {
           document.getElementById('han-text').innerHTML = "you failed haha";
 }
+}
