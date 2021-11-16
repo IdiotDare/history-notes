@@ -52,7 +52,11 @@ document.getElementById('han-text').innerHTML = testText[1];
 function zhouChange(){
   let num = Math.floor(Math.random()*(infoObj.prop.length-1));
   let text = infoObj.zhou[num];
+  if(text != document.getElementById('zhou-text').innerHTML){
   document.getElementById('zhou-text').innerHTML = text;
+  } else {
+    zhouChange
+  }
 }
 
 function hanChange(){
